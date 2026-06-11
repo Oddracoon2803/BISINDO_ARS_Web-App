@@ -25,4 +25,4 @@ Before opening the web interface, you must start the ML model server:
 2. Run all cells to load the ML model and start the API server.
 
 ### Step 2: Run the Frontend
-Open the deployed web application:
+Open the deployed web application: [https://oddracoon2803.github.io/BISINDO_ARS_Web-App/]
